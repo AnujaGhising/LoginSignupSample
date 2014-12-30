@@ -6,8 +6,6 @@ CREATE TABLE `user` (
   `password` varchar(255) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
-
-
 # --- !Downs
 
 drop table user;
