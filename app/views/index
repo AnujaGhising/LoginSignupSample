@@ -1,0 +1,10 @@
+@(title:String)
+@main("LOGIN SAMPLE"){
+ 
+       <p>This is the example of Login and Signup </p>
+			 <li><a href="@routes.Authentication.login" ><h1>LOGIN</h1></a></li>
+			 <li><a href="@routes.Signup.signup" ><h1>SIGN UP</h1></a></li>
+			        	
+}
+
+
